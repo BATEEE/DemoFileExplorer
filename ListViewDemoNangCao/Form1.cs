@@ -230,7 +230,6 @@ namespace ListViewDemoNangCao
                 Directory.CreateDirectory(newFolderPath);
                 //Cap nhat listview
                 UpdateListView();
-
                 listView1.LabelEdit = true;
                 for (int i = 0; i < listView1.Items.Count; i++)
                 {
@@ -283,57 +282,62 @@ namespace ListViewDemoNangCao
         private void listView1_MouseDown(object sender, MouseEventArgs e)
         {
         }
-
         private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //item duoc chon
-            ListViewItem selectedItem = listView1.SelectedItems[0];
+            try
+            {
+                ListViewItem selectedItem = listView1.SelectedItems[0];
 
-            if (selectedItem == null)
-            {
-                return;
-            }
-            
-            //lay duong dan cua file or thu muc muon xoa
-            string itemPath = Path.Combine(path, selectedItem.Text);
-            
-            if(File.Exists(itemPath))
-            {
-                //xoa File
-                try
+                if (selectedItem == null)
                 {
-                    DialogResult result = MessageBox.Show("Bạn có chắc muốn xóa file hoặc folder này không?", "Xác nhận xóa", MessageBoxButtons.OKCancel);
-                    if (result == DialogResult.OK)
+                    return;
+                }
+                //lay duong dan cua file or thu muc muon xoa
+                string itemPath = Path.Combine(path, selectedItem.Text);
+
+                if (File.Exists(itemPath))
+                {
+                    //xoa File
+                    try
                     {
-                        File.Delete(itemPath);
-                        listView1.Items.Remove(selectedItem);
+                        DialogResult result = MessageBox.Show("Bạn có chắc muốn xóa file hoặc folder này không?", "Xác nhận xóa", MessageBoxButtons.OKCancel);
+                        if (result == DialogResult.OK)
+                        {
+                            File.Delete(itemPath);
+                            listView1.Items.Remove(selectedItem);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
                     }
                 }
-                catch (Exception ex)
+                else
                 {
-                    MessageBox.Show(ex.Message);
-                }
-            }
-            else
-            {
-                //xoa folder
-                try
-                {
-                    DialogResult result = MessageBox.Show("Bạn có chắc muốn xóa file hoặc folder này không?", "Xác nhận xóa", MessageBoxButtons.OKCancel);
-                    if(result == DialogResult.OK)
+                    //xoa folder
+                    try
                     {
-                        Directory.Delete(itemPath, true);
-                        listView1.Items.Remove(selectedItem);
+                        DialogResult result = MessageBox.Show("Bạn có chắc muốn xóa file hoặc folder này không?", "Xác nhận xóa", MessageBoxButtons.OKCancel);
+                        if (result == DialogResult.OK)
+                        {
+                            Directory.Delete(itemPath, true);
+                            listView1.Items.Remove(selectedItem);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
                     }
                 }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
+
+            }
+            catch (Exception )
+            {
+                MessageBox.Show("Vui lòng chọn một thư mục hoặc file để xóa !","Thông báo",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
-
-        private void renameToolStripMenuItem_Click(object sender, EventArgs e)
+    private void renameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             listView1.LabelEdit = true;
             listView1.SelectedItems[0].BeginEdit();

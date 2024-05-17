@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ListViewDemoNangCao\\",
+  "WorkspaceRootPath": "D:\\Du lieu hoc tap\\HK5\\LTGD\\BTLonGiaoDien\\FileExplorer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF8273BB-C251-4655-B48A-64F5BF23EF3C}|ListViewDemoNangCao\\ListViewDemoNangCao.csproj|d:\\listviewdemonangcao\\listviewdemonangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF8273BB-C251-4655-B48A-64F5BF23EF3C}|ListViewDemoNangCao\\ListViewDemoNangCao.csproj|d:\\du lieu hoc tap\\hk5\\ltgd\\btlongiaodien\\fileexplorer\\listviewdemonangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF8273BB-C251-4655-B48A-64F5BF23EF3C}|ListViewDemoNangCao\\ListViewDemoNangCao.csproj|solutionrelative:listviewdemonangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF8273BB-C251-4655-B48A-64F5BF23EF3C}|ListViewDemoNangCao\\ListViewDemoNangCao.csproj|D:\\ListViewDemoNangCao\\listviewdemonangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BF8273BB-C251-4655-B48A-64F5BF23EF3C}|ListViewDemoNangCao\\ListViewDemoNangCao.csproj|D:\\Du lieu hoc tap\\HK5\\LTGD\\BTLonGiaoDien\\FileExplorer\\listviewdemonangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BF8273BB-C251-4655-B48A-64F5BF23EF3C}|ListViewDemoNangCao\\ListViewDemoNangCao.csproj|solutionrelative:listviewdemonangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,17 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\ListViewDemoNangCao\\ListViewDemoNangCao\\Form1.cs",
+              "DocumentMoniker": "D:\\Du lieu hoc tap\\HK5\\LTGD\\BTLonGiaoDien\\FileExplorer\\ListViewDemoNangCao\\Form1.cs",
               "RelativeDocumentMoniker": "ListViewDemoNangCao\\Form1.cs",
-              "ToolTip": "D:\\ListViewDemoNangCao\\ListViewDemoNangCao\\Form1.cs",
+              "ToolTip": "D:\\Du lieu hoc tap\\HK5\\LTGD\\BTLonGiaoDien\\FileExplorer\\ListViewDemoNangCao\\Form1.cs",
               "RelativeToolTip": "ListViewDemoNangCao\\Form1.cs",
-              "ViewState": "AQIAANoAAAAAAAAAAAAowOcAAAAhAAAA",
+              "ViewState": "AQIAAD4BAAAAAAAAAAArwE0BAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T09:33:44.062Z",
               "EditorCaption": ""
@@ -37,11 +45,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\ListViewDemoNangCao\\ListViewDemoNangCao\\Form1.cs",
+              "DocumentMoniker": "D:\\Du lieu hoc tap\\HK5\\LTGD\\BTLonGiaoDien\\FileExplorer\\ListViewDemoNangCao\\Form1.cs",
               "RelativeDocumentMoniker": "ListViewDemoNangCao\\Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\ListViewDemoNangCao\\ListViewDemoNangCao\\Form1.cs [Design]",
+              "ToolTip": "D:\\Du lieu hoc tap\\HK5\\LTGD\\BTLonGiaoDien\\FileExplorer\\ListViewDemoNangCao\\Form1.cs [Design]",
+              "RelativeToolTip": "ListViewDemoNangCao\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T09:21:40.943Z"
+              "WhenOpened": "2024-04-24T09:21:40.943Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

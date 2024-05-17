@@ -28,3 +28,13 @@ D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.
 D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.CoreCompileInputs.cache
 D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.exe
 D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.pdb
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe.config
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.pdb
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.AssemblyReference.cache
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Form1.resources
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Properties.Resources.resources
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.GenerateResource.cache
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.CoreCompileInputs.cache
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.exe
+D:\Du lieu hoc tap\HK5\LTGD\BTLonGiaoDien\FileExplorer\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.pdb
