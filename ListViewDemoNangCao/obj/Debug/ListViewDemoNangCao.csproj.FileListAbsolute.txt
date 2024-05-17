@@ -1,0 +1,20 @@
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe.config
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.pdb
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.AssemblyReference.cache
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Form1.resources
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Properties.Resources.resources
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.GenerateResource.cache
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.CoreCompileInputs.cache
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.exe
+D:\Du lieu hoc tap\HK5\LTGD\ThucHanh\ThucHanh6\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.pdb
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe.config
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.pdb
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Form1.resources
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Properties.Resources.resources
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.exe
+C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.pdb
