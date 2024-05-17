@@ -230,7 +230,16 @@ namespace ListViewDemoNangCao
                 Directory.CreateDirectory(newFolderPath);
                 //Cap nhat listview
                 UpdateListView();
-                ListViewItem currentItem = listView1.Items.Find();
+
+                listView1.LabelEdit = true;
+                for (int i = 0; i < listView1.Items.Count; i++)
+                {
+                    if (listView1.Items[i].SubItems[0].Text == "New folder")
+                    {
+                        listView1.Items[i].BeginEdit();
+                        break;
+                    }
+                }
             }
             catch (Exception ex)
             {
@@ -269,37 +278,6 @@ namespace ListViewDemoNangCao
                 }
                 listView1.Items.Add(items);
             }
-        }
-
-        private string GetNewFolderName()
-        {
-            string folderName = "";
-            using (var form = new Form())
-            {
-                form.Width = 500;
-                form.Height = 100;
-                form.StartPosition = FormStartPosition.CenterScreen;
-                form.Text = "New Folder Name";
-
-                var textBox = new TextBox();
-                textBox.Dock = DockStyle.Fill;
-
-                var button = new Button();
-                button.Text = "OK";
-                button.Location = new System.Drawing.Point(0, 0);
-                button.Left += form.Width - button.Width - 17;
-                button.Top += form.Height - button.Height * 2 - 17;
-                button.Click += (sender, e) =>
-                {
-                    folderName = textBox.Text;
-                    form.Close();
-                };
-
-                form.Controls.Add(textBox);
-                form.Controls.Add(button);
-                form.ShowDialog();
-            }
-            return folderName;
         }
 
         private void listView1_MouseDown(object sender, MouseEventArgs e)

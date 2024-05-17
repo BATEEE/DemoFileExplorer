@@ -18,3 +18,13 @@ C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListV
 C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.CoreCompileInputs.cache
 C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.exe
 C:\Users\admin\Downloads\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.pdb
+D:\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe.config
+D:\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.exe
+D:\ListViewDemoNangCao\ListViewDemoNangCao\bin\Debug\ListViewDemoNangCao.pdb
+D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.AssemblyReference.cache
+D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Form1.resources
+D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.Properties.Resources.resources
+D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.GenerateResource.cache
+D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.csproj.CoreCompileInputs.cache
+D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.exe
+D:\ListViewDemoNangCao\ListViewDemoNangCao\obj\Debug\ListViewDemoNangCao.pdb
